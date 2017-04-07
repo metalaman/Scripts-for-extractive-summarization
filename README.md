@@ -15,4 +15,4 @@ The following extractive summarization algorithms have been used:
   4. Sumy's LSA implementation
   5. Pyteaser: python implementation of TextTeaser.
   
-Link to the blog will be added as soon as it's up
+Link to the blog: https://t.co/YidmkzqRVW
